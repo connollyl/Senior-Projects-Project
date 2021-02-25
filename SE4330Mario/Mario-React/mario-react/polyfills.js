@@ -1,0 +1,23 @@
+require('react-app-polyfill/ie11');
+require('react-app-polyfill/stable');
+require('core-js/es');
+// require('core-js/es/symbol');
+require('core-js/es/object');
+require('core-js/es/function');
+require('core-js/es/parse-int');
+require('core-js/es/parse-float');
+require('core-js/es/number');
+require('core-js/es/math');
+require('core-js/es/string');
+require('core-js/es/date');
+require('core-js/es/array');
+require('core-js/es/regexp');
+require('core-js/es/map');
+require('core-js/es/weak-map');
+require('core-js/es/set');
+require('core-js/stable');
+require('regenerator-runtime/runtime');
+
+require('es6-promise').polyfill();
+// require('raf').polyfill(global);
+// require('url-search-params-polyfill');

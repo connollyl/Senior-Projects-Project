@@ -1,0 +1,66 @@
+{
+    "queueBuildApi": {
+        "host": "http://localhost:8000/api/queue/",
+        "path": ""
+    },
+    "configApi": {
+        "host": "http://localhost:8000/api/config/",
+        "path": ""
+    },
+    "artifactsApi": {
+        "host": "http://localhost:8000/api/artifacts/",
+        "path": ""
+    },
+    "branchApi": {
+        "host": "http://localhost:8000/api/tester/branches/",
+        "path": ""
+    },
+   "projectsApi": {
+        "host": "http://localhost:8000/api/projects/",
+        "path": ""
+    },
+    "lastRunApi": {
+        "host": "http://localhost:8000/api/lastBuild/",
+        "path": ""
+    },
+    "treeviewApi": {
+        "host": "http://localhost:8000/api/tester/tree/",
+        "path": ""
+    },
+    "reposApi":{
+        "host": "http://localhost:8000/api/tester/repos/",
+        "path": ""
+    },
+    "buildsApi": {
+        "host": "http://localhost:8000/api/builds/",
+        "path": ""
+    },
+    "adminDriveType": {
+        "host": "http://localhost:8000/api/drivetypes/",
+        "path": ""
+    },
+    "adminEnv": {
+        "host": "http://localhost:8000/api/environments/",
+        "path": ""
+    },
+    "adminBuildMap": {
+        "host": "http://localhost:8000/api/buildmaps/",
+        "path": ""
+    },
+    "adminConfigMap": {
+        "host": "http://localhost:8000/api/configmap/",
+        "path": ""
+    },
+    "oauth": {
+        "pageURL": "",
+        "ApiURL": "https://app.vssps.visualstudio.com/oauth2/token",
+        "ClientId": "07CCF41A-C82C-4411-A8A1-58CFB9A254A0",
+        "ClientSecret": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Im9PdmN6NU1fN3AtSGpJS2xGWHo5M3VfVjBabyJ9.eyJjaWQiOiIwN2NjZjQxYS1jODJjLTQ0MTEtYThhMS01OGNmYjlhMjU0YTAiLCJjc2kiOiI5MGVjOTNjMS00MWZiLTQ2NjctOTJiOS00MjQ0OWNlZWUzY2EiLCJuYW1laWQiOiI3ODJkNDVhMy05ZGY0LTQ3NjAtYjRkNi1hMWMxZTNiMjRlZDUiLCJpc3MiOiJhcHAudnN0b2tlbi52aXN1YWxzdHVkaW8uY29tIiwiYXVkIjoiYXBwLnZzdG9rZW4udmlzdWFsc3R1ZGlvLmNvbSIsIm5iZiI6MTU4ODg4NDg1MCwiZXhwIjoxNzQ2NjUxMjUwfQ.vqhNHkmgNPrYHYjZfuIqA5f26j7CEiiK_oUFItED742a_-aoLYPvz_FKfy-tg7uGCVuk1MdkR9bcUNHxG_YiA9mUSHbvyWIZuDTGROfkLMiFEcsshCjyqI6z0_PNWCLZ7lK38KOUjZrp2y66-BYfWbjZ3yEqfNmhv_ILZAb5sLXjbA12uJNP4Ln8s6mY3dImoAmutDTyUb-AYzOYiVULINN3UFo2X_sxaJZRixLgUJEkQbU752utxOT52A7mcCIoG1R6Xa-NPxCyZyZYPldj0gWYoCyXyOEQAq5-2zJPne_QjGzDIJo1eDZKFCsN1YiaXxWyFvjxnSr9neKSqyMq4A",
+        "CallBack": "https://dev.azure.com/adasupershi",
+        "State": "",
+        "Scope": "vso.build_execute vso.code_full vso.graph_manage vso.loadtest_write vso.profile_write vso.project_manage vso.release_manage vso.test_write vso.tokenadministration vso.work_full",
+        "AuthPath": "https://app.vssps.visualstudio.com/oauth2/authorize?client_id=${CLIENT_ID}&response_type=Assertion&state=${STATE}&scope=${SCOPE}&redirect_uri=${CALL_BACK}",
+        "Organization": "adasupershi",
+        "Project": "SE4330-Mario"
+    }
+}

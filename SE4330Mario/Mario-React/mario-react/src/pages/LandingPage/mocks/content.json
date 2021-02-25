@@ -1,0 +1,13 @@
+{
+    "driveTypeTitle": "Drive Type",
+    "testEnvTitle": "Test Environment",
+    "testRunSelectedTitle": "Test Run",
+    "firmWareTitle": "Firmware",
+    "numberOfRunsLabel": "How many runs?",
+    "developerLabel": "Developer",
+    "icons": {
+        "developerIcon": "code",
+        "firmwareIcon": "settings_input_component",
+        "emailIcon": "email"
+    }
+}

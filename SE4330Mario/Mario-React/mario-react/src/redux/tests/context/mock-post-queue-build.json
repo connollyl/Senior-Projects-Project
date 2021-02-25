@@ -1,0 +1,18 @@
+{
+    "TestEnv": "Test",
+    "DriveType": "TestDrive",
+    "FirmWare": {
+        "Branch": "develop",
+        "Artifact": "test"
+    },
+    "PowerCard": {
+        "Branch": "develop",
+        "Artifact": "test"
+    },
+    "Application": {
+        "Branch": "develop",
+        "Artifact": "test"
+    },
+    "NumOfRuns": 1,
+    "RunType": "Last"
+}

@@ -1,0 +1,43 @@
+{
+    "sectionTitle": "Test",
+    "components": [
+        {
+            "type": "Input",
+            "title": "Test Text Box",
+            "placeholder": "this is a placeholder",
+            "tooltip": "This is a tooltip, Sorry for the confusion",
+            "name": "testName",
+            "id": "input-test-text-box",
+            "width": "full"
+        },
+        {
+            "type": "SelectBox",
+            "title": "Test Select Box",
+            "things": [
+                "Test1",
+                "Whatever1",
+                "Test2"
+            ],
+            "name": "selectbox",
+            "tooltip": "Generate me dang it",
+            "id": "input-test-select-box",
+            "width": "full"
+        },
+        {
+            "type": "Input",
+            "title": "Test Text Box",
+            "tooltip": "This is a tooltip, Sorry for the confusion",
+            "name": "testName",
+            "id": "input-test-text-box1",
+            "width": "half"
+        },
+        {
+            "type": "Input",
+            "title": "Test Text Box",
+            "tooltip": "This is a tooltip, Sorry for the confusion",
+            "name": "testName",
+            "id": "input-test-text-box2",
+            "width": "half"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+########################
+# .editorconfig
+########################
+
+# Configure your IDE
+
+# Documentation:
+#   http://editorconfig.org/
+
+# top-most EditorConfig file
+root = true
+
+# Configurations for all files
+#   - use UTF-8 encoding
+#   - use linux (LF) end-of-line character
+#   - always insert a new line at end of file
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+

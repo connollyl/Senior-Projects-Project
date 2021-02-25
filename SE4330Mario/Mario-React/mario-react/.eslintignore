@@ -1,0 +1,6 @@
+flow-typed
+flow
+**/node_modules/*
+**/dist/*
+./src/index.js
+**/tests/*

@@ -1,0 +1,12 @@
+{
+    "Builds": {
+        "id": "100",
+        "buildNumber": "2262020",
+        "finishTime": "6:17",
+        "status": "Complete",
+        "author": "TestData",
+        "tags": [],
+        "results": "Success",
+        "queueTime": "6:00"
+    }
+}
